@@ -1,3 +1,0 @@
-# Projects
-Study
-Personal projects.
